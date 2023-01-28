@@ -1,0 +1,13 @@
+﻿{
+  "name": "com.simple.statemachine",
+  "version": "0.0.1",
+  "displayName": "Simple State Machine",
+  "description": "An Unity State Machine for Simple development",
+  "unity": "2021.3",
+  "unityRelease": "17f1",
+  "keywords": ["simple", "state", "machine"],
+  "author": {
+    "name": "Mustafa Pamir Ünsal",
+    "email": "pamir.unsal@gmail.com"
+  }
+}
