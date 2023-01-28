@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caa941db-7b4c-4d62-85a0-0db05d84eb75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Simple-State-Machine/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CHANGELOG.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Samples~/Sample1/Scenes/Sample1.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Samples~/Sample1/Scripts/Sample1Client.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="caa941db-7b4c-4d62-85a0-0db05d84eb75" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674948032804</updated>
-      <workItem from="1674948036989" duration="981000" />
+      <workItem from="1674948036989" duration="1449000" />
     </task>
     <servers />
   </component>
