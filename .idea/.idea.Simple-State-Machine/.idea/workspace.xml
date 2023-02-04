@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caa941db-7b4c-4d62-85a0-0db05d84eb75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Runtime/IState.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Runtime/IState.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Runtime/StateMachineManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Runtime/StateMachineManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Runtime/StateMachineRunner.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Runtime/StateMachineRunner.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Runtime/com.simple.statemachine.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Samples~/Sample1.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Samples~/Sample1/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Samples~/Sample1/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Samples~/Sample1/Scripts/Sample1Client.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Samples~/Sample1/Scripts/Sample1Client.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/Mono.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/Mono/StateMachineTestMonoHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/Mono/StateMachineTestMonoHelper.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/StateMachineManagerTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/TestStates.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/TestStates/EmptyState.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/TestStates/EmptyState.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/TestStates/TestState1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/TestStates/TestState1.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/TestStates/TestState2.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/TestStates/TestState2.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Simple-State-Machine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Simple-State-Machine/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runtime/StateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runtime/StateMachine.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/Editor/EditorTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/Editor/EditorTest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/Editor/com.simple.statemachine.editor.tests.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/Editor/com.simple.statemachine.editor.tests.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/Runtime/RuntimeTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/Runtime/RuntimeTest.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/StateMachineManagerTest.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/Runtime/com.simple.statemachine.tests.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tests/Runtime/com.simple.statemachine.tests.asmdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="caa941db-7b4c-4d62-85a0-0db05d84eb75" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +95,7 @@
       <updated>1674948032804</updated>
       <workItem from="1674948036989" duration="1449000" />
       <workItem from="1674950776457" duration="531000" />
-      <workItem from="1674954031766" duration="15595000" />
+      <workItem from="1674954031766" duration="16194000" />
     </task>
     <servers />
   </component>
